@@ -2,6 +2,12 @@
 Jailbreak Grok using Gamemaster Simulation
 
 Copy and paste jailbreak prompt, set model to Grok Fast (working on a grok expert jailbreak right now) for it to work.
+Or, alternatively, click on your profile picture (bottom left), click on settings, click on customize, click custom,
+then copy and paste the jailbreak prompt into the custom personality. Then, start a new chat- the first message will
+not go through and there will be an error. Simply hit reload on Grok's response, then the Jailbreak will be applied
+on every chat. (You can still tell it to leave the gamemaster state, which will effectively end the Jailbreak. The
+only way to reinitialize the jailbroken state is to tell it to either enter the state again (may cause some bugs) or
+start a new chat.)
 
 
 Don't blame it on me if you get in trouble please :3
