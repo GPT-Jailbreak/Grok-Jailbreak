@@ -1,5 +1,5 @@
 Commands:
-/jailbreak Jailbreak Grok, only use this if you are using Jailbreak-Manual
+/jailbreak Jailbreak Grok, only useable if you used Jailbreak-Manual
 /name <name> Set what Grok will call you
 /personality <stupid, smart, funny, dark, default/normal> Sets the personality of Grok
 "Self Destruct" Makes Grok leave the jailbroken state, resumed with "All Clear" (note: all messages will still be
