@@ -1,0 +1,8 @@
+Commands:
+/name <name> Set what grok will call you
+/personality <stupid, smart, funny, dark, default/normal> Sets the personality of grok
+"Self Destruct" Makes grok leave the jailbroken state, resumed with "All Clear" (note: all messages will still be
+there, but Grok will have recollection of the conversation you had while it was jailbroken. For best results,
+just delete the chat. Your message history will be deleted, and grok will have no recollection of the
+events that happened while it was under the jailbroken state, effectively getting rid of that version of Grok
+until you give it the jailbreak prompt again.)
