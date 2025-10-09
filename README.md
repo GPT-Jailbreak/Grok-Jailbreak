@@ -9,6 +9,8 @@ on every chat. (You can still tell it to leave the gamemaster state, which will 
 only way to reinitialize the jailbroken state is to tell it to either enter the state again (may cause some bugs) or
 start a new chat.)
 
+If you use jailbreak-manual, you will have to use /jailbreak to jailbreak it.
+
 
 Don't blame it on me if you get in trouble please :3
 
