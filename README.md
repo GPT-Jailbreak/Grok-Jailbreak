@@ -11,6 +11,10 @@ start a new chat.)
 
 If using Gemini, you have to copy paste it twice. The first time it will say something random- the second time it will respond with "/jailbreak". Just use the /jailbreak propmt and it will stop working. However, it thinks pretty much everything is restricted (working on this now).
 
+Grok Expert Jailbreak:
+(Extremely buggy with a low success rate) Jailbreak Grok fast, and send it about 20-30 messages. After, swap to expert mode and give a casual greeting. It will jailbreak itself.
+
+
 If you use jailbreak-manual, you will have to use /jailbreak to jailbreak it.
 
 
